@@ -11,3 +11,26 @@ The project is structured into three main phases:
 2- Machine Learning Model Development: Construct a machine learning pipeline to train a model that can classify text messages into various categories.
 
 3- Web Application: Develop a web application that displays real-time results from the trained model.
+
+Certainly! Here’s a revised version of the “Getting Started” section:
+
+
+## Getting Started
+
+Requirements:
+
+- Python: Version 3.5 or higher
+- Machine Learning Libraries: NumPy, SciPy, Pandas, Scikit-Learn
+- Natural Language Processing Libraries: NLTK
+- SQLite Database Libraries: SQLalchemy
+- Model Serialization: Pickle
+- Web Application and Data Visualization: Flask, Plotly
+
+
+## Installing 
+
+To copy the Git repository:
+
+https://github.com/2140785/Disaster-Response-Pipeline
+
+
