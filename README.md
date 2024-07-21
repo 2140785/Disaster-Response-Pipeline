@@ -6,8 +6,8 @@ This initiative is part of the Data Science Nanodegree Program offered by Udacit
 
 The project is structured into three main phases:
 
-Data Processing: Create an ETL (Extract, Transform, Load) pipeline to retrieve data from its original source, perform data cleaning, and store the processed data in a SQLite database.
+1- Data Processing: Create an ETL (Extract, Transform, Load) pipeline to retrieve data from its original source, perform data cleaning, and store the processed data in a SQLite database.
 
-Machine Learning Model Development: Construct a machine learning pipeline to train a model that can classify text messages into various categories.
+2- Machine Learning Model Development: Construct a machine learning pipeline to train a model that can classify text messages into various categories.
 
-Web Application: Develop a web application that displays real-time results from the trained model.
+3- Web Application: Develop a web application that displays real-time results from the trained model.
