@@ -36,8 +36,10 @@ https://github.com/2140785/Disaster-Response-Pipeline
 ## Screenshots
 
 1- Sample run of process_data.py
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/fdc54d48-ecb9-473e-bcb0-c0f38d504b23">
 
 2- Sample run of train_classifier.py
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/0521f4e4-c21e-4af4-8c4e-e521b0e134da">
 
